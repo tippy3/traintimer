@@ -1,0 +1,42 @@
+body{
+	background-color: #ffffff;
+	font-size: 20px;
+	color           : #444444;
+	text-align      : center;
+}
+.st-name{
+	text-align: left;
+}
+.line-name{
+	text-align: right;
+}
+.h-1{
+	height: 4px;
+}
+.h-2{
+	height: 1px;
+}
+.m-1{
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.c-1{
+	color: #0a0a0a;
+	background-color: #fcfcfc;
+}
+.c-2{
+	color: #777777;
+	background-color: #f0f0f0;
+}
+.c-3{
+	background-color: #aaaaaa;
+}
+.c-4{
+	background-color: #777777;
+}
+.c-soon{
+	color: #FF8F00;
+}
+.c-very-soon{
+	color: #FF0E00;
+}
